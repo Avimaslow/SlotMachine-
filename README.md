@@ -1,7 +1,7 @@
 # SlotMachine
 A fun and interactive slot machine game built with SwiftUI. This project showcases custom views, animation, sound playback, and state management in SwiftUI.
 
-![Simulator Screen Recording - iPhone 15 Plus - 2024-03-11 at 21 38 32](https://github.com/Avimaslow/SlotMachine/assets/155393634/f16120d1-e4d0-4acc-850f-70e0dc6acfa3)
+![Simulator Screen Recording - iPhone 15 Plus - 2024-03-11 at 21 38 32](https://github.com/Avimaslow/SlotMachine-/assets/155393634/08860d6a-668e-44d2-98d1-c6efae630b29)
 
 
 
@@ -13,7 +13,7 @@ A fun and interactive slot machine game built with SwiftUI. This project showcas
 - Dynamic betting system with configurable bet amounts
 - Comprehensive use of ViewModifiers for styling and layout
 
-![Simulator Screen Recording - iPhone 15 Plus - 2024-03-11 at 21 35 01](https://github.com/Avimaslow/SlotMachine/assets/155393634/8b1f7006-64a0-4c97-a119-3292e1a3c218)
+![Simulator Screen Recording - iPhone 15 Plus - 2024-03-11 at 21 35 01](https://github.com/Avimaslow/SlotMachine-/assets/155393634/db6d206f-b438-4d18-8d17-564dc6a03da5)
 
 
 ## Getting Started
